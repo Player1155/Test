@@ -1,0 +1,3 @@
+Um die Ordner src und pictures anzeigen zu lassen, musste ich diese Datei anlegen.
+Git spart es sich leere Ordner in die Versionskontrolle aufzunehmen und lässt sich auch nicht mit „git add Ordnername“ oder „git add *“ überreden. 
+Siehe dazu folgenden Beitrag: https://bitpage.de/leere-ordner-in-git-behalten-mit-gitkeep-datei/
